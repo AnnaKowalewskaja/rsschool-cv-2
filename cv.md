@@ -51,7 +51,7 @@ function decode(expr) {
 #### Teacher of mathematics and computer science, 2015 - 2019
 ### Teach Me Skills
 #### Front-End Developer
-### RSSchool, IT-Incubator,HTML Academy 
+### RSSchool, IT-Incubator, HTML Academy, Udemy 
 #### HTML,CSS, JS, React
 
 ## __English__
