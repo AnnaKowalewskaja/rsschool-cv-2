@@ -16,8 +16,7 @@
 * HTML
 * CSS
 * JavaScript
-* ReactJS
-* PHP *a little bit*
+* React
 * Markdown
 
 ## __Code examples__
